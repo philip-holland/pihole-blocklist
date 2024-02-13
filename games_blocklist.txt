@@ -1,0 +1,13 @@
+0.0.0.0 play-games.com
+0.0.0.0 gamegab.com
+0.0.0.0 gamepix.com
+0.0.0.0 y9freegames.com
+0.0.0.0 miniroyal.com
+0.0.0.0 numuki.com
+0.0.0.0 voicy.network
+0.0.0.0 magiceden.com
+0.0.0.0 starwarsgamesonline.com
+0.0.0.0 magiceden.com
+0.0.0.0 ubg9.github.io
+0.0.0.0 ubg8.github.io
+0.0.0.0 slope-game.github.io
