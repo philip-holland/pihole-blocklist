@@ -11,3 +11,6 @@
 0.0.0.0 ubg9.github.io
 0.0.0.0 ubg8.github.io
 0.0.0.0 slope-game.github.io
+0.0.0.0 playtika.com
+0.0.0.0 exitgames.com
+0.0.0.0 photonengine.io
